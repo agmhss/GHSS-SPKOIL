@@ -7,11 +7,10 @@
 // ⚙️ MASTER CONFIGURATION (Change only this block for other schools)
 // ========================================================================
 const APP_CONFIG = {
-    fullName: "GHSS VELAMURITHANPETTAI", 
-    shortName: "GHSS VELAMURITHANPETTAI",                                           
-    scriptUrl: "https://script.google.com/macros/s/AKfycbwWlI-5iHo-lXoIeaSeHLs-jeI5sFxviEBSsJ3PS4AQJEN8ReoCG9xwpYKGJvYcMDPh/exec" 
+    fullName: "Govt Hr Sec School, Aduthurai", 
+    shortName: "GHSS Aduthurai",                                           
+    scriptUrl: "https://script.google.com/macros/s/AKfycbwcI-_4BewMwRxDQbZmvLS9pbWsvGMVoPbeIH2VmrDlqHwzU4hgQBbSy6DgpFNgiVAOLA/exec" 
 };
-
 const SCRIPT_URL = APP_CONFIG.scriptUrl;
 
 // --- Global Trackers ---
